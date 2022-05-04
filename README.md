@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Project: Backend API Actualité Site
 
 ## Authors
